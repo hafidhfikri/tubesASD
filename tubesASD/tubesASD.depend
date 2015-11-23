@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1448287000 source:h:\tubesasd\tubesasd\fungsi.cpp
+
+1448289460 source:h:\tubesasd\tubesasd\main.cpp
+	<iostream>
+	"hider.h"
+
+1448290701 h:\tubesasd\tubesasd\hider.h
+	<string>
+
